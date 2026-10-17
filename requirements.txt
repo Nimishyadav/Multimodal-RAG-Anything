@@ -1,0 +1,15 @@
+pdfplumber
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
+ollama
+pyvis
+streamlit
+openpyxl
+xlrd>=2.0.1
+python-docx
+python-pptx
+python-dotenv
+mineru>=4,<5
+Pillow

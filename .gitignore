@@ -1,0 +1,37 @@
+# Data files
+data/
+
+# Generated storage
+storage/
+
+# FAISS indexes
+*.faiss
+
+# Pickle files
+*.pkl
+
+# Generated graphs
+*.html
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# MinerU local setup
+mineru-setup/
+
+# Local libraries
+lib/
+
+# OS files
+.DS_Store
+Thumbs.db
